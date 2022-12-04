@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AOC_2k22_1", "AOC_2k22\AOC_2k22_1.csproj", "{F8F4D874-A74C-46AD-AA61-5B365F909220}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AOC_2k22_1", "AOC_2k22_1\AOC_2k22_1.csproj", "{F8F4D874-A74C-46AD-AA61-5B365F909220}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AOC_2k22_2", "AOC_2k22_2\AOC_2k22_2.csproj", "{F4B6CD48-7B10-4E46-8086-17A2D5F51E73}"
 EndProject
