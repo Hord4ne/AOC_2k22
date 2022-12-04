@@ -1,4 +1,4 @@
-﻿using AOC_2k22_0;
+﻿using AOC_2k22_Common;
 
 namespace AOC_2k22_2;
 

@@ -1,4 +1,4 @@
-﻿namespace AOC_2k22_0;
+﻿namespace AOC_2k22_Common;
 
 public abstract class ChallangeSolver
 {
