@@ -2,5 +2,5 @@
 
 var solver = new Solver();
 
-await solver.Part1();
+//await solver.Part1();
 await solver.Part2();
